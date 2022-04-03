@@ -140,7 +140,11 @@ public class ButtonExe extends Application {
 			}
 		});
 		
-		
+		// 第三种、第四种省略没写，不常用，可以查阅手册
+		// 第五种
+		KeyCombination kc = KeyCombination.valueOf("ctrl+r");
+		Mnemonic m2 = new Mnemonic(b2, kc);
+		scene.addMnemonic(m2);
 		
 		primaryStage.setScene(scene);
 		primaryStage.setHeight(500);
