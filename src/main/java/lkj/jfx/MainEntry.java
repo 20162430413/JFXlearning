@@ -1,12 +1,12 @@
 package lkj.jfx;
 
 import javafx.application.Application;
-import lkj.jfx.day7.MenuBarExe;
+import lkj.jfx.day8.CustomMenuExe;
 
 public class MainEntry {
 
 	public static void main(String[] args) {
-		Application.launch(MenuBarExe.class, args);
+		Application.launch(CustomMenuExe.class, args);
 	}
 
 }

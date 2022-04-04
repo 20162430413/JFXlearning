@@ -12,4 +12,5 @@ module JFXlearning {
     exports lkj.jfx.day6;
     exports lkj.jfx.day6.login_exercise;
     exports lkj.jfx.day7;
+    exports lkj.jfx.day8;
 }
