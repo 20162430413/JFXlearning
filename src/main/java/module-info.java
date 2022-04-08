@@ -14,4 +14,5 @@ module JFXlearning {
     exports lkj.jfx.day7;
     exports lkj.jfx.day8;
     exports lkj.jfx.day9;
+    exports lkj.jfx.day10;
 }
